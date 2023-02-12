@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-size: 1.3rem;
+}
+
+.action {
+  display: flex;
+  margin: 1rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.action button {
+  padding: 0.3rem;
+  margin-left: 0.7rem;
+  color: white;
+  background-color: rgb(21, 90, 175);
+  border: 1px solid rgb(21, 90, 175);
+}
+
+p {
+  margin: 1rem;
+}
