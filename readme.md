@@ -14,8 +14,8 @@ The Quote App will display quotes together with the quote author - that's the ap
 
 Screenshots:
 
-(/assets/bild1.png)
-(/assets/bild2.png)
+[bild 1]: (/assets/bild1.png)
+[bild 2]: (/assets/bild2.png)
 
 ### Source:
 
